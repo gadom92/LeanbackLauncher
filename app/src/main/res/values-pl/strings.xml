@@ -12,16 +12,16 @@
     <item name="lb_guidedstep_height_weight" type="string" translatable="false">2.0</item>
     <item name="lb_guidedstep_height_weight_translucent" type="string" translatable="false">1.0</item>
     <item name="lb_guidedstep_keyline" type="string" translatable="false">40.0</item>
-    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description">Ekran Główny</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
+    <string name="abc_action_bar_up_description">W górę</string>
+    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaż wszystko</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">Wyłącz</string>
+    <string name="abc_capital_on">Włącz</string>
     <string name="abc_font_family_body_1_material" translatable="false">sans-serif</string>
     <string name="abc_font_family_body_2_material" translatable="false">sans-serif-medium</string>
     <string name="abc_font_family_button_material" translatable="false">sans-serif-medium</string>
@@ -34,19 +34,19 @@
     <string name="abc_font_family_menu_material" translatable="false">sans-serif</string>
     <string name="abc_font_family_subhead_material" translatable="false">sans-serif</string>
     <string name="abc_font_family_title_material" translatable="false">sans-serif-medium</string>
-    <string name="abc_search_hint">Search…</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_info_add_favorites">Add to Favorites</string>
-    <string name="app_info_hide_app">Hide in Launcher</string>
-    <string name="app_info_in_store">View in App Store</string>
-    <string name="app_info_in_playstore">View in Google Play</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Wyszukiwana fraza</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Prześlij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
+    <string name="abc_toolbar_collapse_description">Zwinięcie</string>
+    <string name="app_info_add_favorites">Dodaj do Ulubionych</string>
+    <string name="app_info_hide_app">Ukryj</string>
+    <string name="app_info_in_store">Pokaż w Aplikacjach</string>
+    <string name="app_info_in_playstore">Pokaż w Sklepie Play</string>
     <string name="app_info_rem_favorites">Remove from Favorites</string>
     <string name="app_info_settings">App Settings</string>
     <string name="app_info_unhide_app">Unhide in Launcher</string>
