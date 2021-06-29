@@ -205,7 +205,7 @@
     <string name="recency_order_action_description">Aplikacje i gry uporządkowane na podstawie ostatniego użycia</string>
     <string name="recency_order_action_title">Ostatnio używane</string>
     <string name="recm_service_name">Rekomendacje</string>
-    <string name="recommendation_blacklist_action_title">Recommendations Sources</string>
+    <string name="recommendation_blacklist_action_title">Źródła rekomendacji</string>
     <string name="recommendation_blacklist_content_description">Wybrane źródła mogą wyświetlać rekomendacje na ekranie głównym. Aby je ukryć, wyłącz rekomendacje z określonych źródeł.</string>
     <string name="recommendation_blacklist_content_title">wiersz rekomendacji</string>
     <string name="recommendation_row_empty_message_no_connection">Brak połączenia z Internetem w tej chwili</string>
